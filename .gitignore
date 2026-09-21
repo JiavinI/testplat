@@ -1,0 +1,7 @@
+# macOS 生成的目录元数据不属于项目内容。
+.DS_Store
+**/.DS_Store
+
+# 控制面和执行面保持独立 Git 历史，不纳入项目总控仓库。
+/testplat-control/
+/testplat-engine/
